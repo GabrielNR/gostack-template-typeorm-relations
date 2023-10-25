@@ -1,0 +1,4 @@
+- Clientes
+- Produtos
+- Pedidos
+- PedidosProdutos (id, id_produto, qtd, valor)
